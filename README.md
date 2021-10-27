@@ -1,2 +1,2 @@
-# Rusty_fun
-small rust projects
+# Coding_fun
+small projects
