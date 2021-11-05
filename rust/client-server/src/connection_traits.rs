@@ -1,7 +1,7 @@
 
 
 
-trait Client {
+pub trait Client {
     fn new(settings_file: &'static str) -> Self;
 
     fn connect(&self);
