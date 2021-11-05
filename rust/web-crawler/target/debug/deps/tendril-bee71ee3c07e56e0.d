@@ -1,0 +1,13 @@
+/home/chris/projects/public/rust/web-crawler/target/debug/deps/tendril-bee71ee3c07e56e0.rmeta: /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/lib.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/fmt.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/stream.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/buf32.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/tendril.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/utf8_decode.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/util.rs
+
+/home/chris/projects/public/rust/web-crawler/target/debug/deps/libtendril-bee71ee3c07e56e0.rlib: /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/lib.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/fmt.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/stream.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/buf32.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/tendril.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/utf8_decode.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/util.rs
+
+/home/chris/projects/public/rust/web-crawler/target/debug/deps/tendril-bee71ee3c07e56e0.d: /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/lib.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/fmt.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/stream.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/buf32.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/tendril.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/utf8_decode.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/util.rs
+
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/lib.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/fmt.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/stream.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/buf32.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/tendril.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/utf8_decode.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.2/src/util.rs:

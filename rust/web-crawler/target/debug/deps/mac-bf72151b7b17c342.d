@@ -1,0 +1,14 @@
+/home/chris/projects/public/rust/web-crawler/target/debug/deps/mac-bf72151b7b17c342.rmeta: /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/home/chris/projects/public/rust/web-crawler/target/debug/deps/libmac-bf72151b7b17c342.rlib: /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/home/chris/projects/public/rust/web-crawler/target/debug/deps/mac-bf72151b7b17c342.d: /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs:
+/home/chris/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs:
